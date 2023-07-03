@@ -10,7 +10,6 @@ This page provides a summary of React documentation study and some interesting f
 - React executing the function → Calculating the snapshot → Updating the DOM tree
 - **A state variable’s value never changes within a render,** even if its event handler’s code is asynchronous.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3932a360-f60b-4717-a0d1-9cb23df92489/Untitled.png)
 
 **React keeps the state values “fixed” within one render’s event handlers.** 
 
